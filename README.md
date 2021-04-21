@@ -18,7 +18,7 @@ The game of Hangman where a random word is selected from a list and the user mus
 
 ## Screenshots
 
-![Screenshot](![Screenshot](https://user-images.githubusercontent.com/57517804/114334092-6bb1da80-9b7c-11eb-86ff-d08d91370fb4.png))
+![Screenshot](https://user-images.githubusercontent.com/57517804/114334092-6bb1da80-9b7c-11eb-86ff-d08d91370fb4.png)
 
 [Demo](https://agitated-murdock-45d1fa.netlify.app)
 
